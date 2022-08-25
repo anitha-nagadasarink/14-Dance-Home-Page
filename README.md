@@ -21,8 +21,8 @@ I took 7 hours to complete the project with responsive
 
 ### Demo :
 
-![Web Site Image](https://github.com/anitha-nagadasarink/13-Saas-Landing-Page/blob/HTML-CSS-Projects/Assets/demo.png)
+![Web Site Image](https://github.com/anitha-nagadasarink/14-Dance-Home-Page/blob/HTML-CSS-Projects/Assets/demo.png)
 
 ### You can Check it Live on Below Link :
 
-[Live Link !](https://new-saas-landing-webpage.netlify.app/)
+[Live Link !](https://dance-webpage-new.netlify.app/)
